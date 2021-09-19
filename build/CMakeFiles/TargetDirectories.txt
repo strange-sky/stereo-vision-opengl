@@ -1,0 +1,3 @@
+/home/akash/Desktop/opengl gpu interop/build/CMakeFiles/rebuild_cache.dir
+/home/akash/Desktop/opengl gpu interop/build/CMakeFiles/edit_cache.dir
+/home/akash/Desktop/opengl gpu interop/build/CMakeFiles/ZED_openGL.dir
